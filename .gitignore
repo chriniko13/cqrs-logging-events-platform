@@ -1,0 +1,16 @@
+
+
+thrift-server/target
+thrift-client/target
+kafka-consumer/target
+clients-simulator/target
+infra/target
+
+
+clients-simulator/dependency-reduced-pom.xml
+kafka-consumer/dependency-reduced-pom.xml
+thrift-server/dependency-reduced-pom.xml
+
+.idea/
+
+infra/out/*
